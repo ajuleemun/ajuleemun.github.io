@@ -2,27 +2,27 @@
 	"Favorite restaurants": [{
 		"Name": "Pica Pica Arepa Kitchen",
 		"Type of food": "Venezuelan",
-		"Location": "401 Valencia St, San Francisco",
+		"Location": "401 Valencia St, San Francisco"
 	},
 	{
 		"Name": "Berkeley Social Club",
 		"Type of food": "Asian fusion",
-		"Location": "2050 University Ave, Berkeley",
+		"Location": "2050 University Ave, Berkeley"
 	},
 	{
 		"Name": "Sushi Sam's Edomata",
 		"Type of food": "Japanese",
-		"Location": "218 E 3rd Ave, San Mateo",
+		"Location": "218 E 3rd Ave, San Mateo"
 	},
 	{
 		"Name": "Hawker Fare",
 		"Type of food": "Laotian",
-		"Location": "680 Valencia St, San Francisco",
+		"Location": "680 Valencia St, San Francisco"
 	},
 	{
 		"Name": "Al's Place",
 		"Type of food": "American",
-		"Location": "1499 Valencia St, San Francisco",
+		"Location": "1499 Valencia St, San Francisco"
 	}]
 	
 }
