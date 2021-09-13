@@ -1,33 +1,28 @@
 {
-	"publications": [{
-		"Title": "Automatically Generating Cause-and_Effect Questions from Passages",
-		"Authors": "Stasaski, K., Rathod, M., Tu, T., Xiao, Y, and Hearst, M.A.",
-		"Venue": "BEA Workshop",
-		"Year": "2021"
+	"Favorite restaurants": [{
+		"Name": "Pica Pica Arepa Kitchen",
+		"Type of food": "Venezuelan",
+		"Location": "401 Valencia St, San Francisco",
 	},
 	{
-		"Title": "Automatic Feedback Generation for Dialog-Based Language Tutors Using Transformer Models and Active Learning",
-		"Authors": "Stasaski, K. and Ramanarayanan, V.",
-		"Venue": "Human-in-the-Loop Dialogue Systems Workshop",
-		"Year": "2020"
+		"Name": "Berkeley Social Club",
+		"Type of food": "Asian fusion",
+		"Location": "2050 University Ave, Berkeley",
 	},
 	{
-		"Title": "More Diverse Dialogue Datasets via Diversity-Informed Data Collection",
-		"Authors": "Stasaski, K., Yang, G., and Hearst, M.A.",
-		"Venue": "ACL",
-		"Year": "2020"
+		"Name": "Sushi Sam's Edomata",
+		"Type of food": "Japanese",
+		"Location": "218 E 3rd Ave, San Mateo",
 	},
 	{
-		"Title": " Construction of a Large Open Access Dialogue Dataset for Tutoring",
-		"Authors": "Stasaski, K., Kao, K., and Hearst, M.A.",
-		"Venue": "BEA Workshop",
-		"Year": "2020"
+		"Name": "Hawker Fare",
+		"Type of food": "Laotian",
+		"Location": "680 Valencia St, San Francisco",
 	},
 	{
-		"Title": "Multiple Choice Question Generation Utilizing an Ontology",
-		"Authors": "Stasaski, K and Hearst, M.A.",
-		"Venue": "BEA Workshop",
-		"Year": "2017"
+		"Name": "Al's Place",
+		"Type of food": "American",
+		"Location": "1499 Valencia St, San Francisco",
 	}]
 	
 }
